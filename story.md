@@ -1,0 +1,3 @@
+# Browser Navigation System Using Stacks
+
+This project demonstrates a browser-like navigation system implemented using two stacks. **Stack Backward** stores the history of visited pages, allowing users to move backward seamlessly. **Stack Forward** keeps pages popped during back navigation, enabling smooth forward movement. Together, these stacks simulate real browser behavior, providing efficient and reliable navigation. In case of errors, both stacks can rebuild from navigation logs, ensuring predictable browsing history management. The project highlights the practical use of stack data structures in managing sequential operations efficiently.
