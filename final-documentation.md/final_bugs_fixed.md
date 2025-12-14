@@ -1,0 +1,4 @@
+- Fixed infinite loop in menu
+- Prevented crash on empty stack pop
+- Cleared forward stack on new page visit
+- Corrected incorrect history traversal
